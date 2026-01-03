@@ -1,6 +1,16 @@
-import { Stack } from "expo-router";
 import "./globals.css"
+import { Stack } from 'expo-router';
+import { StatusBar } from 'expo-status-bar';
 
 export default function RootLayout() {
-  return <Stack />;
+  return (
+    <>
+      <StatusBar style="auto" />
+      <Stack screenOptions={{ headerShown: false }}>
+        <Stack.Screen name="(tabs)" />
+        <Stack.Screen name="document/[id]" />
+        <Stack.Screen name="document/edit" />
+      </Stack>
+    </>
+  );
 }
