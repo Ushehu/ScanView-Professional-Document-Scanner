@@ -456,7 +456,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@Ushehu](https://github.com/Ushehu)
+- GitHub: [Ushehu](https://github.com/Ushehu)
 - Email: ushehu132@gmail.com
 
 
@@ -526,7 +526,6 @@ If this project demonstrates the skills you're looking for, please star the repo
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by [Umar Faruk Shehu] | Available for hire</sub>
+  <sub>Built with ❤️ by Umar Faruk Shehu | Available for hire</sub>
   
-  **[View Portfolio](https://yourportfolio.com)** • **[LinkedIn](https://linkedin.com/in/yourprofile)** • **[Email](mailto:your.email@example.com)**
 </div>
